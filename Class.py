@@ -1,7 +1,3 @@
-# Lab 4: K-Means Clustering Implementation
-# Student Name: Md. Muktadir Mukto
-# Student ID  : 2018-2-60-063
-
 import math
 import sys
 from sklearn import datasets
